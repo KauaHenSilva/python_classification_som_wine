@@ -9,7 +9,7 @@ Este repositório contém um Jupyter Notebook que demonstra o uso de um Self-Org
 
 ### Notebooks Disponíveis:
 
-#### 1. main.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauaHenSilva/python_download_file_drive/blob/main/main.ipynb)
+#### 1. main.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauaHenSilva/python_classification_som_wine/blob/main/main.ipynb)
 Demonstra a configuração do ambiente, download de arquivos, pré-processamento de dados, treinamento do modelo SOM e visualização dos resultados.
 
 ## Como Usar no Google Colab
